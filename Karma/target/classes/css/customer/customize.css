@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+.img-hot{
+    position: relative;
+}
+.badge-customize{
+    position: absolute;
+    top: 15px; 
+    right: 34px;
+}
+.badge-customize1{
+	position: absolute;
+    top: 37px; 
+    right: 34px;
+}
+.badge-cart{
+    box-sizing: border-box;
+    right: -7px;
+    top: -9px;
+    text-align: center;
+    background-color: #f44a40;
+    padding: 2px;
+    color: white;
+    border-radius: 25%;
+    font-size: 10px;
+  
+}
+
+
+
+

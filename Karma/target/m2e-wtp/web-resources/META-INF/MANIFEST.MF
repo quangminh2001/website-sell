@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Nguyen Quang Minh
+Build-Jdk: 11.0.1
+Implementation-Title: Karma-Shop
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.devpro
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/karma
+Created-By: Maven Integration for Eclipse
+
